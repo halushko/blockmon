@@ -1,0 +1,8 @@
+daemon/
+/blockmon
+/CMakeFiles
+/Makefile
+*CMake*
+*.so
+/*_install*
+/.*project
